@@ -13,3 +13,4 @@ INFO.md# See https://help.github.com/articles/ignoring-files for more about igno
 
 # Ignore bundler config.
 INFO.md
+*.class
